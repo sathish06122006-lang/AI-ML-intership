@@ -219,3 +219,12 @@ Displayed the prediction.
 Added a visualization of the prediction.
 
 
+.
+👨‍💻 Author
+
+Sathish Kumar
+
+AI/ML Intern – Codomax Digital Solutions
+⭐ Acknowledgement
+
+I would like to thank Codomax Digital Solutions for providing this AI/ML internship opportunity and helping me gain practical experience in Data Science and Machine Learning.
