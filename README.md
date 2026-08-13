@@ -217,3 +217,5 @@ Used the trained Linear Regression model.
 Generated a predicted Math Score.
 Displayed the prediction.
 Added a visualization of the prediction.
+
+
